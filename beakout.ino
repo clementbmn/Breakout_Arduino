@@ -2,7 +2,7 @@
  *  Breakout game for Arduino and the Adafruit 1.8" TFT screen with joystick 
  *  Developed by Clement Baumann - July 5th, 2013
  *  Copy is prohibited unless explicitely authorized by author
- *  For any question please contact clement.baumann@epitech.eu
+ *  For any question please contact clement.baumann@hotmail.fr
  */
 
 #include <Adafruit_GFX.h>
